@@ -21,7 +21,32 @@ body{
     justify-content: space-between;
 }
 
+.chat-box{
+    display: flex;
+    gap: 15px;
+}
+
 .chat-section{
     flex-grow: 1;
     display: flex;
+}
+
+.login {
+    margin-bottom: 40px;
+    border-bottom: 1px solid tomato;
+    padding-bottom: 10px;
+}
+
+.profile-pic{
+    width: 50px;
+    height: 50px;
+}
+
+.feed-inner{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+p{
+    margin: 0 15px
 }

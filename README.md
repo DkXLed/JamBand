@@ -103,3 +103,6 @@ admin capabilities/page
 	-My Band Home button on Member credentials page should display the band name
 	-create photo/video sharing page and section on landing page 
 	-band name on landing page needs to display band name
+	-import and export js for chat page
+	-need to add ability to create band (admin rights)
+	-look into noreferer for links
