@@ -84,3 +84,11 @@ admin capabilities/page
 	-remove band to work on
 	-delete member
 	-add songs to masterlist
+
+
+
+
+*to do:
+	-add navbar and footer to all pages with js
+	-style login a href link to look like a button
+	-
