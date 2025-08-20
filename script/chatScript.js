@@ -11,18 +11,18 @@ function getFeedHtml(){
     
     feedHtml +=
         `
-<div class="feed">
-    <div class="feed-inner">
-        <img src="${user.profilePic}" class="profile-pic">
-        <div>
-            <p class="handle">${user.handle}</p>
-            <p class="tweet-text">${user.chatText}</p> 
-        </div>            
-    </div>
-</div>
-`
-})
-return feedHtml
+        <div class="feed">
+            <div class="feed-inner">
+                <img src="${user.profilePic}" class="profile-pic">
+                <div class="user-chat-info">
+                    <p class="handle">${user.handle}</p>
+                    <p class="tweet-text">${user.chatText}</p> 
+                </div>            
+            </div>
+        </div>
+        `
+    })
+    return feedHtml
 }
 
 
