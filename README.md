@@ -11,7 +11,6 @@ Band organization app
 {login page}
 	-bandId
 	-memberId
-	-email
 	-password
 	-setup new member link
 
