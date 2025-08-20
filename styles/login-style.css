@@ -44,6 +44,10 @@ a, #submit-btn{
     margin-bottom: 15px;
 }
 
+p, .contact{
+    margin: 0
+}
+
 .foot-credentials .container{
     display: flex;
     justify-content: space-between;

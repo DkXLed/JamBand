@@ -91,4 +91,8 @@ admin capabilities/page
 *to do:
 	-add navbar and footer to all pages with js
 	-style login a href link to look like a button
-	-
+	-add logout functionality
+	-new member sign in must incorporate a "band code" to get access to band pages
+	-create profile page to allow user to be in multiple "bands" and manage each
+	-create "messages" section
+	
