@@ -32,15 +32,16 @@ body{
     flex-direction: column;
     align-items: center;
     margin: auto;
-    gap: 5px;
+    gap: 10px;
 }
 
 .label-login{
     font-size: .75rem;
 }
 
-a{
-    margin-top: 10px;
+a, #submit-btn{
+    margin-top: 20px;
+    margin-bottom: 15px;
 }
 
 .foot-credentials .container{

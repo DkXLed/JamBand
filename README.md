@@ -1,6 +1,7 @@
 # JamBand
 Band organization app
 
+production notes:
 
 {header}
 	-menu ticks
