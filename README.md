@@ -5,10 +5,11 @@ production notes:
 
 
 {landing page}
-	-band feed
-	-notifications
+	-band chat feed mini with chatting capabilities
 	-upcoming dates
 	-songs to work on
+	-photo/video share section
+
 
 {setup page}(one time pop up for new members)
 	-bandId(needed)
@@ -100,3 +101,5 @@ admin capabilities/page
 	-member credentials doubles as edit member credentials
 	-widen input boxes for login and credentials
 	-My Band Home button on Member credentials page should display the band name
+	-create photo/video sharing page and section on landing page 
+	-band name on landing page needs to display band name
