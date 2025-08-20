@@ -16,7 +16,7 @@ function getFeedHtml(){
                 <img src="${user.profilePic}" class="profile-pic">
                 <div class="user-chat-info">
                     <p class="handle">${user.handle}</p>
-                    <p class="tweet-text">${user.chatText}</p> 
+                    <p class="chat-text">${user.chatText}</p> 
                 </div>            
             </div>
         </div>
