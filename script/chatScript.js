@@ -36,6 +36,7 @@ function handleBtnClick(){
         userData.unshift({
             handle:`derek`,
             profilePic: `./images/JBuser.jpg`,
+            bandId: [],
             chatText: inputArea.value,
             uuid: uuidv4()
         })

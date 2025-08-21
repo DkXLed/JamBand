@@ -3,6 +3,7 @@ export const userData = [
     {
      handle:`derek`,
      profilePic: `./images/JBuser.jpg`,
+     bandId: [],
      chatText: `yo what up world`,
      uuid: `get uuid here`,
     },
@@ -11,6 +12,7 @@ export const userData = [
      handle: `ashley`,
      profilePic: `./images/JBuser.jpg`,
      chatText: `not alotta`,
+     bandId: [],
      uuid: `get another uuid here`,
     },
      {
