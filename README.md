@@ -106,3 +106,6 @@ admin capabilities/page
 	-import and export js for chat page
 	-need to add ability to create band (admin rights)
 	-look into noreferer for links
+	-add delete and edit chat buttons
+	-add date and time submission for chats
+	-handle database or local storage for app

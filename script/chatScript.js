@@ -44,7 +44,6 @@ function handleBtnClick(){
     render()
 }
 
-
 function render(){
     document.getElementById('feed').innerHTML = getFeedHtml()
 }
